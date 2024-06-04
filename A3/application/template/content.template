@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<link rel="stylesheet" href="/css/page.css">
+		<title>{{name}}</title>
+	</head>
+	<body>
+		<div class="page container">
+			<div class="header"><img src="../img/Austin.png"></div>
+			<div class="left-grid"></div>
+			<div class="product-middle">
+				<a href="/application">Go back to the Home Page</a>
+				<a href="{{prevProduct}}">{{prev}}</a>
+				<a href="{{nextProduct}}">{{next}}</a><br>
+				<h2>Price: ${{price}}</h2>
+				<img src="{{image}}" alt="{{name}}"/>
+				{{long-desc}}
+				{{tags}}
+			</div>
+			<div class="right-grid"></div>
+		</div>
+	</body>
+</html>
+
