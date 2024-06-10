@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <link rel="stylesheet" href="/css/page.css">
+        <title>Austin's Components</title>
+        <script src="/js/application.js" defer></script>
+    </head>
+    <body>
+        <div class="page container">
+            <div class="header">
+                <img src="../img/Austin.png" alt="header">
+                <form class="search" method="get" id="search">
+                    <input type="search" class="query" name="search" placeholder="Search">
+                    <button id="submit" class="submit">Search</button>
+                </form>
+            </div>
+            <div class="left-grid">
+                <div class="filters" id="filters">
+                    <h2>Filters:</h2>
+                    <div class="remove" id="remove"><h3>Remove Filters</h3></div>
+                    <div id="filter-tags"></div>
+                </div>
+            </div>
+            <div class="results" id="results"></div>
+            <div class="middle-grid" id="main-content">
+            </div>
+            <div class="right-grid">
+                <h2>Shopping Cart:</h2>
+                <div id="cart" class="cart"></div>
+            </div>
+        </div>
+    </body>
+</html>
