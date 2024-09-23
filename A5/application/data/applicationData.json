@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "name": "Intel i9 14900K",
+        "price": 699.99,
+        "shortdesc": "Powerful Intel Processor",
+        "longdesc": "<b>Intel Core i9-14900k Raptor Features</b><br><b>High-Performance Desktop CPU:</b><br>The i9-14900k is a productivity powerhouse that redefines performance for you. It is ideal for high-power games like COD, Helldivers, Battlefield, and more. The high processing power of the i9-14900k is also an attractive option for 3D modeling, data science, programming, and high-end content creation.<br><br><b>24 Cores (8 P-Cores + 16 E-Cores):</b><br>Like other Intel processors, the i9-14900k effectively handles everything you throw at it and more.",
+        "image": "/img/Intel.jpg",
+        "tags": ["Processor", "Intel", "Component"]
+    },
+    {
+        "id": 1,
+        "name": "Ryzen 9 7950X3D",
+        "price": 699.99,
+        "shortdesc": "Powerful AMD Processor",
+        "longdesc": "<b>Ryzen 9 7950X3D Raphael AM5 4.2GHz 16-Core Boxed Processor</b><br><b>High-Performance Desktop CPU:</b><br>Relentless performance for gamers who demand the very best.It’s yours with an AMD Ryzen™ 9 7950X3D processor featuring AMD 3D V-Cache™ technology.<br><br><b>16-Core, 32-Thread:</b><br>Hexadeca-core (16 Core) processor core efficiently handles data to ensure quicker transfer of information with maximum usability.Processor with 4.20 GHz clock speed for quick and dependable processing of data to ensure maximum productivity",
+        "image": "/img/Ryzen.jpg",
+        "tags": ["Processor", "AMD", "Component"]
+    },
+    {
+        "id": 2,
+        "name": "Intel A770",
+        "price": 599.99,
+        "shortdesc": "Intel Based Graphics Card",
+        "longdesc": "<b>Arc A770 Limited Edition Dual Fan 16GB GDDR6 PCIe 4.0 Graphics Card</b><br>High-performance gaming has arrived with Intel Arc 7 graphics, crank up your settings and get immersed. Experience the latest gaming technologies featuring XeSS AI-enhanced upscaling and DirectX 12 Ultimate enabling more performance and realistic visuals. Unlock your next gaming adventure with Intel Arc graphics, powered by an all-new Xe HPG microarchitecture, delivering scalable performance from ultra-thin laptops to powerful desktop gaming. With a wide range of hardware and software optimizations, from advanced Xe-cores to AI-enhanced XeSS upscaling technology, to robust Game On drivers, jump into a new world of gaming with Intel Arc graphics. Full support for DirectX 12 Ultimate enables exceptional visual experiences in vivid virtual worlds.\n",
+        "image": "/img/IntelA770.jpg",
+        "tags": ["GPU", "Intel", "Component", "Graphics Card"]
+    },
+    {
+        "id": 3,
+        "name": "ASUS TUF 4090",
+        "price": 1819.99,
+        "shortdesc": "NVIDIA Based Graphics Card",
+        "longdesc": "<b>NVIDIA GeForce RTX 4090 TUF Gaming Overclocked 24GB GDDR6X PCIe 4.0 Graphics Card</b><br>NVIDIA Ada Lovelace architecture elevated by buffed cooling and power delivery, and backed with an arsenal of rugged reinforcements to cover your six. Lock, load, and dominate with the TUF Gaming GeForce RTX 4090. Powered by NVIDIA® DLSS3, ultra-efficient Ada Lovelace arch, and full ray tracing. 4th Generation Tensor Cores: Up to 4x performance with DLSS 3 vs. brute-force rendering. 3rd Generation RT Cores: Up to 2X ray tracing performance. OC edition: 2595 MHz (OC mode) / 2565 MHz (Default mode).",
+        "image": "/img/Nvidia4090.jpg",
+        "tags": ["GPU", "NVIDIA", "Component", "Graphics Card"]
+    },
+    {
+        "id": 4,
+        "name": "ASUS Radeon RX7900XTX",
+        "price": 1099.99,
+        "shortdesc": "AMD Based Graphics Card",
+        "longdesc": "<b>AMD Radeon RX 7900 XTX TUF Gaming Overclocked 24GB GDDR6 PCIe 4.0 Graphics Card</b><br>The AMD RDNA 3 Architecture elevated by buffed cooling and power delivery to effortlessly churn out frames at 4K resolution and beyond, and backed with an arsenal of rugged reinforcements to cover your six. Lock, load, and dominate with the TUF Gaming Radeon RX 7900 XTX.\t\t\t\tPowered by NVIDIA® DLSS3, ultra-efficient Ada Lovelace arch, and full ray tracing. Axial-tech fans scaled up to deliver 14% more airflow. Dual ball fan bearings last up to twice as long as conventional designs. Military-grade capacitors rated for 20K hours at 105C make the GPU power rail more durable.\n",
+        "image": "/img/Radeon7900.jpg",
+        "tags": ["GPU", "AMD", "Component", "Graphics Card"]
+    },
+    {
+        "id": 5,
+        "name": "Lian LI EVO",
+        "price": 169.99,
+        "shortdesc": "Glass Case with RGB",
+        "longdesc": "<b>O11D EVO RGB Tempered Glass ATX Mid-Tower Computer Case - White</b><br>The O11D EVO RGB, the replacement for the current O11D EVO, is the latest addition to the O11D series which takes one inspiration from the impactful features of previous models and adds an extra layer of flair by including tasteful elements of RGB illumination. Many of the includes features were inspired from requests by the community, such as a removable pillar, added RGB strips, and improved the internal design.",
+        "image": "/img/LianLiEVO.jpg",
+        "tags": ["Case", "RGB", "White", "Lian Li"]
+    },
+    {
+        "id": 6,
+        "name": "Corsair 5000D",
+        "price": 219.99,
+        "shortdesc": "Simplistic Case with included RGB",
+        "longdesc": "<b>iCUE 5000D RGB AIRFLOW Tempered Glass ATX Mid-Tower Computer Case - White</b><br>The CORSAIR 5000D RGB AIRFLOW is a mid-tower ATX case with high-airflow design and exceptional cooling. A steel front panel and three included CORSAIR AF120 RGB ELITE fans with AirGuide technology provide maximum airflow through the case. Control RGB on up to six PC fans with the included Lighting Node PRO controller and powerful CORSAIR iCUE software.\n",
+        "image": "/img/Corsair5000D.jpg",
+        "tags": ["Case", "RGB", "White", "Corsair"]
+    },
+    {
+        "id": 7,
+        "name": "Hyte Y60",
+        "price": 179.99,
+        "shortdesc": "Angular Case with Great Airflow",
+        "longdesc": "<b>Y60 Modern Aesthetic Dual Chamber Panoramic Tempered Glass ATX Mid-Tower Computer Gaming Case - Snow White</b><br>No corner pillar. The Y60 features a 3-piece panoramic tempered glass design for the ultimate photo and display potential. See your build the way it was meant to be seen from the left or right side of your desk with a simple turn.\t\t\t</p>\n",
+        "image": "/img/HyteY60.jpg",
+        "tags": ["Case", "RGB", "White", "Hyte"]
+    }
+]
